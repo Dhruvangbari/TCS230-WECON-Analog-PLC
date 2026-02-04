@@ -1,0 +1,8 @@
+WECON PLC Analog Logic (0–10V)
+
+AI0 < 1300            -> Y0 (RED)
+AI0 >= 1300 < 2600    -> Y1 (GREEN)
+AI0 >= 2600           -> Y2 (BLUE)
+
+Analog Scaling:
+0–10V = 0–4000
